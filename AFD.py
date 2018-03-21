@@ -40,7 +40,14 @@ def verifica_cv(automat, cuvant):
         print ("Cuvant acceptat")
     else:
         print ("Cuvant respins")
-
+'''
+# Functia main
+# 1) Deschid fisierul automat.in
+# 2) Citesc din fisier numarul de noduri
+# 3) Apelez functia de citire automat
+# 4) Stochez cuvantul de verificat
+# 5) Apelez functia de verificare cuvant
+'''
 if __name__ == "__main__":
     file = open("automat.in", "r")
     nrn = file.readline().rstrip("\n")
