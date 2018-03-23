@@ -82,7 +82,7 @@ def verifica_cv(automat, cuvant):
 # 1) Deschid fisierul afn.in
 # 2) Apelez functia de citire automat
 # 3) Stochez cuvantul de verificat
-# 4) Apelez functia de verificare cuvant
+# 4) Apelez functia de verificare cuvant 
 '''
 
 
